@@ -1,7 +1,7 @@
 # sample-bot-discord
-This is a sample bot for discord>
+This is a sample bot for discord
 
-<img src="demo/demo.png">
+<img src="demo/demo.png" width="700">
 
 ## Config
 - Create a `local/env.sh`
